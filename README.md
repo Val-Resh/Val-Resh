@@ -4,4 +4,4 @@
 Just someone passionate about computer science. Areas that interest me are Security, Engineering, Robotics and Artificial Intelligence. 
 
 * [**LinkedIn**](https://www.linkedin.com/in/valreshtech/) Would you like to connect? 👔
-* [**Security Blog**](https://medium.com/@plaintextpasswords) Check out my posts on cybersecurity! 🔐
+* [**Security Blog**](https://medium.com/@plaintextpasswords) Check out my blog on cybersecurity! 🔐
