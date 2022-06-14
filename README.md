@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/80176765/170698024-7145a5bd-5146-4691-9c6e-bba100f06a44.png" alt="drawing" width="2000" height="150"/>
+<img src="https://user-images.githubusercontent.com/80176765/173570512-ba7571b4-8faa-48e8-8cdf-55e8a78ff195.png" alt="infosec"/>
 
 💻**Hello World!** 💻
 Just someone passionate about computer science. Areas that interest me are Security, Engineering, Robotics and Artificial Intelligence. 
