@@ -6,5 +6,5 @@ Just someone passionate about computer science. Areas that interest me are Secur
 * [**LinkedIn**](https://www.linkedin.com/in/valreshtech/) Would you like to connect? 👔
 * [**Security Blog**](https://medium.com/@plaintextpasswords) Check out my blog on cybersecurity! 🔐
 
-<a href="https://tryhackme.com/p/MrMeow" target="_blank"><img src="https://user-images.githubusercontent.com/80176765/175664822-88c90f6f-11d9-459a-9854-a403ec9a3056.png" alt="TryHackMe"></a>
+<a href="https://tryhackme.com/p/MrMeow" target="_blank"><img src="https://tryhackme.com/badge/441011" alt="TryHackMe"></a>
 <a href="https://app.hackthebox.com/profile/528595" target="_blank"><img src="https://www.hackthebox.com/badge/image/528595" alt="HackTheBox" width=210 height=57></a>
